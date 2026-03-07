@@ -146,7 +146,7 @@ box-shadow:0 8px 25px rgba(0,0,0,0.15);
   .big-gallery{
     grid-template-columns:1fr;
 }
-}
+
 @media (max-width:900px){
   .wrap{
     width:100%;
